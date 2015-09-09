@@ -761,8 +761,8 @@ void CChildView::OnMouseMove(UINT nFlags, CPoint point)
 		int ydiff = rightButtonPoint.y - point.y;
 		int xdiff = rightButtonPoint.x - point.x;
 		
-			windowWidth = windowWidth + ydiff/2;
-			windowCenter = windowCenter + xdiff/2;
+			windowWidth = windowWidth + xdiff/2;
+			windowCenter = windowCenter + ydiff/2;
 
 			twobytetoonebyte();
 
