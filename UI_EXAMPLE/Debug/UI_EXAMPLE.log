@@ -1,0 +1,24 @@
+﻿빌드 시작: 2015-10-10 오전 2:00:35
+     1>2 노드의 "C:\Users\Administrator\documents\visual studio 2010\Projects\UI_EXAMPLE\UI_EXAMPLE.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\UI_EXAMPLE.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         모든 출력이 최신 상태입니다.
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+       Manifest:
+         모든 출력이 최신 상태입니다.
+         모든 출력이 최신 상태입니다.
+       FinalizeBuildStatus:
+         "Debug\UI_EXAMPLE.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\UI_EXAMPLE.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Administrator\documents\visual studio 2010\Projects\UI_EXAMPLE\UI_EXAMPLE.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.18
